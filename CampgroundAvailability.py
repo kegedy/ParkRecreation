@@ -4,7 +4,8 @@ import pandas as pd
 from tabulate import tabulate
 
 campgoundID = 232490
-api_key = 'Qpecy5FD5ZDNL7oYns0jH4DvPM5b0K53zSY6e8nR'
+# https://www.nps.gov/subjects/developer/get-started.htm -> Obtain API Key
+api_key = ''
 headers = {
 	#'Host': 'www.recreation.gov',
 	'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:80.0) Gecko/20100101 Firefox/80.0',
